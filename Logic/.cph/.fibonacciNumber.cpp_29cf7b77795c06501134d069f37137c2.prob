@@ -1,0 +1,1 @@
+{"name":"Local: fibonacciNumber","url":"a:\\Codes\\C++\\Logic\\fibonacciNumber.cpp","tests":[{"id":1717947155605,"input":"4","output":""},{"id":1717947207284,"input":"7","output":""},{"id":1717947267543,"input":"9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"a:\\Codes\\C++\\Logic\\fibonacciNumber.cpp","group":"local","local":true}
