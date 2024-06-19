@@ -1,0 +1,1 @@
+{"name":"Local: longestSubstring","url":"a:\\Codes\\C++\\string\\longestSubstring.cpp","tests":[{"id":1718807733730,"input":"abcabcbb","output":""},{"id":1718810079159,"input":"bbbbb","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"a:\\Codes\\C++\\string\\longestSubstring.cpp","group":"local","local":true}
