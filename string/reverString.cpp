@@ -8,10 +8,17 @@ string reverseString(const string &str){
     return reversedStr;
 }
 
-int main() {
-    string input;
-    cout << "Enter a String:" << endl;
-    getline(cin, input);
-    reverseString(input);
+// int main() {
+//     string input;
+//     cout << "Enter a String:" << endl;
+//     getline(cin, input);
+//     reverseString(input);
 
+// }
+
+int main () {
+    string str;
+    cin >> str;
+    
+    reverse(str.begin(), str.end());
 }
